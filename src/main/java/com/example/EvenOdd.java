@@ -16,3 +16,4 @@ public class EvenOdd {
         System.out.println(number + " is " + checkEvenOdd(number));
     }
 }
+//Testing automatic GitHub Actions build
